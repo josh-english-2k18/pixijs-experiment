@@ -30,3 +30,7 @@ const SPRITE_USE_RANDOM_COLORIZATION = false;
 
 const SPRITE_RENDERING_BOUNDARY_SCALAR = 200;
 ```
+
+Screenshot:
+
+![screenshot](https://github.com/josh-english-2k18/pixijs-experiment/blob/main/screenshot.png)
