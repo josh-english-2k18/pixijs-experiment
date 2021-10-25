@@ -6,7 +6,7 @@ Setup:
 
 ```
 $ npm install http-server
-$ http-server . --port 8080 -a 0.0.0.0 --ext html --no-dotfiles
+$ http-server . --port 8080 -a 0.0.0.0 --ext html --no-dotfiles -c-1
 ```
 
 After starting `http-server` instance, you can navigate to http://0.0.0.0:8080/index.html to see the experiment.
