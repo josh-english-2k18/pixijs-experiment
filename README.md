@@ -9,9 +9,11 @@ $ npm install http-server
 $ http-server . --port 8080 -a 0.0.0.0 --ext html --no-dotfiles
 ```
 
+After starting `http-server` instance, you can navigate to http://0.0.0.0:8080/index.html to see the experiment.
+
 Hacking:
 
-- the following constants (found in `index.html` can be used to modify this experiement's behavior
+- the following constants (found in `index.html`) can be used to modify this experiement's behavior
 
 ```
 const SPRITE_TEXTURE = 'sandrail01.png';
